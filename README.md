@@ -21,3 +21,4 @@ models was achieved by RF at 86.82%, whereas DL model
 1D-CNN emerged very close at 86.30%.
 
 ![Model Performance](output2.png)
+![ROC Curves](output.png)
